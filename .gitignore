@@ -1,0 +1,9 @@
+.cache
+.theia
+dist
+node_modules
+package-lock.json
+firebase.js
+.firebase/
+.firebaserc
+.DS_Store
